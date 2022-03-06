@@ -15,15 +15,15 @@ Mathematically, we can represent a linear regression as:
     
 Here,
 
-Y= Dependent Variable (Target Variable)
+    Y= Dependent Variable (Target Variable)
 
-X= Independent Variable (predictor Variable)
+    X= Independent Variable (predictor Variable)
 
-a0= intercept of the line (Gives an additional degree of freedom)
+    a0= intercept of the line (Gives an additional degree of freedom)
 
-a1 = Linear regression coefficient (scale factor to each input value).
+    a1 = Linear regression coefficient (scale factor to each input value).
 
-ε = random error
+    ε = random error
 
 The values for x and y variables are training datasets for Linear Regression model representation.
 
